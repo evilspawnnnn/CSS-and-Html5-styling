@@ -2,6 +2,9 @@ img{
     width:30%;
     /* margin: 1.666%; */
     margin: calc(10%/6);
+    box-sizing:border-box;
+    border-top-left-radius: 20px;
+    padding:0;
 }
 body{
     background: #06d6a0;
